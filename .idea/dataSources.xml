@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3071505047">
-    <data-source source="LOCAL" name="SQLite -" uuid="1cfee5f2-1484-4b79-8be4-4f7868966bee">
+  <component name="DataSourceManagerImpl" format="xml" hash="4185860507">
+    <data-source source="LOCAL" name="price_checks" uuid="9f784cd7-4288-4bf4-ba94-fcabaf6c5886">
       <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/example.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\juju\Documents\GitHub\BitFlex\price_checks.db</jdbc-url>
       <libraries />
     </data-source>
   </component>

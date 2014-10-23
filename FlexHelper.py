@@ -19,20 +19,21 @@ def getNowFilename():
 #Post: Waited for the given amount of time and exits
 def litewait(WAITTIME,TYPE):
     if TYPE=="s":
-        print getNow() + ": Waiting for: " + str(WAITTIME) + " seconds"
+        log(getNow() + ": Waiting for: " + str(WAITTIME) + " seconds","runlog.log",'a')
         time.sleep(WAITTIME)
     if TYPE=="m":
         WAITTIME=WAITTIME*60
-        print getNow() + ": Waiting for: " + str(WAITTIME/60) + " minutes"
+        log(getNow() + ": Waiting for: " + str(WAITTIME/60) + " minutes","runlog.log",'a')
         time.sleep(WAITTIME)
     if TYPE=="h":
         WAITTIME=(WAITTIME*60)*60
-        print getNow() + ": Waiting for: " + str((WAITTIME/60)/60) + " hours"
+        log(getNow() + ": Waiting for: " + str((WAITTIME/60)/60) + " hours","runlog.log",'a')
         time.sleep((WAITTIME*60)*60)
 
 #Pre: Given a clear text string log it to the given FILENAMEPATH
 #Post: Logs the given clear text into the filenamepath
 def log(DATA,FILENAMEPATH,FILEHANDLESETTING):
     file = open(FILENAMEPATH, FILEHANDLESETTING)
-    file.write( getNow() + ": " + DATA)
+    file.write(getNow() + ": " + DATA + '\n')
+    print getNow() + ": " + DATA + '\n'
     file.close()

@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="SQLite -" uuid="1cfee5f2-1484-4b79-8be4-4f7868966bee">
+  <data-source source="LOCAL" name="price_checks" uuid="9f784cd7-4288-4bf4-ba94-fcabaf6c5886">
     <database-info product="SQLite" version="3.7.6.3" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
     <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
     <schema name="" catalog=""/>
-    <table name="pricechecks" schema="" catalog="" type="TABLE">
-      <column name="timestamp" sqlType="TEXT" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
-      <column name="totalamount" sqlType="REAL" precision="2000000000" scale="10" nullable="true" jdbcType="6"/>
-      <column name="subtotalamount" sqlType="REAL" precision="2000000000" scale="10" nullable="true" jdbcType="6"/>
-      <column name="coinbasefee" sqlType="REAL" precision="2000000000" scale="10" nullable="true" jdbcType="6"/>
-      <column name="bankfee" sqlType="REAL" precision="2000000000" scale="10" nullable="true" jdbcType="6"/>
-      <column name="digested_storage" sqlType="BLOB" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
-      <column name="type" sqlType="TEXT" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+    <table name="price_checks" schema="" catalog="" type="TABLE">
+      <column name="totalamount" sqlType="FLOAT" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="subtotal" sqlType="FLOAT" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="coinbasefee" sqlType="FLOAT" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="bankfee" sqlType="FLOAT" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="digested_storage" sqlType="TEXT" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="type" sqlType="TEXT" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="timestamp" sqlType="DATETIME" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+    </table>
+    <table name="transactions" schema="" catalog="" type="TABLE">
+      <column name="type" sqlType="TEXT" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="TOTALBITCOIN" sqlType="REAL" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="TOTALUSD" sqlType="REAL" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
+      <column name="PRICE" sqlType="REAL" precision="2000000000" scale="10" nullable="false" jdbcType="6"/>
     </table>
   </data-source>
 </component>
