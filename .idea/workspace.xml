@@ -12,8 +12,8 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/BitFlex$main.coverage" NAME="main Coverage Results" MODIFIED="1414037375728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BitFlex$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1413608486009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BitFlex$main.coverage" NAME="main Coverage Results" MODIFIED="1414099181960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state vertical-scroll-proportion="-5.06" vertical-offset="155" max-vertical-offset="969">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="e#20#35#0" expanded="true" />
               </folding>
@@ -52,8 +52,8 @@
       <file leaf-file-name="FlexTick.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlexTick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
-              <caret line="33" column="103" selection-start-line="33" selection-start-column="103" selection-end-line="33" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1411">
+              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -62,21 +62,8 @@
       <file leaf-file-name="FlexHelper.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlexHelper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="731">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
               <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runlog.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runlog.log">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.2" vertical-offset="57363" max-vertical-offset="57970">
-              <caret line="3404" column="0" selection-start-line="3404" selection-start-column="0" selection-end-line="3404" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,21 +72,8 @@
       <file leaf-file-name="FlexCosts.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlexCosts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="price_checks" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks">
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -108,30 +82,44 @@
       <file leaf-file-name="FlexStore.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlexStore.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42461538" vertical-offset="30" max-vertical-offset="1292">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.7146283" vertical-offset="1121" max-vertical-offset="2023">
+              <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
               <folding>
-                <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-                <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-                <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-                <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-                <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-                <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-                <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-                <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-                <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+                <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+                <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+                <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+                <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+                <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+                <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+                <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+                <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+                <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+                <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transactions" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions">
+      <file leaf-file-name="price_checks" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks">
           <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transactions" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions">
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -150,7 +138,6 @@
       <list>
         <option value="$PROJECT_DIR$/BFprices.py" />
         <option value="dbtable:/c9685bcb/1cfee5f2-1484-4b79-8be4-4f7868966bee/..pricechecks" />
-        <option value="$PROJECT_DIR$/FlexCosts.py" />
         <option value="dbtable:/b631569e/18b12642-84e4-4a12-8319-8bbe60c42458/..pricechecks" />
         <option value="dbtable:/b631569e/88eecdba-a7f4-4202-a3a3-be7f1bfac5e1/..pricechecks" />
         <option value="db-console:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/" />
@@ -160,9 +147,12 @@
         <option value="dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions" />
         <option value="$PROJECT_DIR$/runlog.log" />
         <option value="dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks" />
-        <option value="$PROJECT_DIR$/FlexTick.py" />
         <option value="$PROJECT_DIR$/FlexAccount.py" />
+        <option value="dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions" />
+        <option value="dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks" />
+        <option value="$PROJECT_DIR$/FlexTick.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/FlexCosts.py" />
         <option value="$PROJECT_DIR$/FlexStore.py" />
       </list>
     </option>
@@ -170,8 +160,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -199,7 +189,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,6 +209,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +219,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="sshConsole" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -344,22 +334,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
-      <module name="" />
-      <option name="PORT" value="0" />
-      <option name="HOST" value="null" />
-      <PathMappingSettings>
-        <option name="pathMappings">
-          <list />
-        </option>
-      </PathMappingSettings>
-      <option name="REDIRECT_OUTPUT" value="true" />
-      <option name="SUSPEND_AFTER_CONNECT" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,6 +355,22 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -484,19 +474,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32172996" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23853211" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13072917" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13046876" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13020833" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09492187" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37236288" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27320674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3325688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -524,9 +514,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13125" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1814346" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1814346" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -549,6 +539,67 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="884">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexTick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1377">
+          <caret line="33" column="103" selection-start-line="33" selection-start-column="103" selection-end-line="33" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="748">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexCosts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexStore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1292">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FlexHelper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
@@ -561,14 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="663">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -596,26 +639,17 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="799">
           <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..a">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -630,14 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -673,26 +699,17 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="799">
           <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..a">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -707,14 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -750,15 +759,16 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="646">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
         </state>
       </provider>
@@ -774,14 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -817,15 +819,16 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="646">
           <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
         </state>
       </provider>
@@ -841,14 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -884,15 +879,16 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="765">
           <caret line="25" column="211" selection-start-line="25" selection-start-column="211" selection-end-line="25" selection-end-column="211" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
         </state>
       </provider>
@@ -933,23 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://db-console:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031021899" vertical-offset="0" max-vertical-offset="548">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..a">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/listTables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15866667" vertical-offset="0" max-vertical-offset="750">
@@ -957,7 +936,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions">
+    <entry file="dbDummy://dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..transactions">
       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
       </provider>
@@ -968,39 +947,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="e#20#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexCosts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="663">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runlog.log">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+    <entry file="dbDummy://dbtable:/a1f39d38/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.2" vertical-offset="57363" max-vertical-offset="57970">
-          <caret line="3404" column="0" selection-start-line="3404" selection-start-column="0" selection-end-line="3404" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexHelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1013,39 +966,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlexTick.py">
+    <entry file="file://$PROJECT_DIR$/FlexHelper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="434" max-vertical-offset="1343">
-          <caret line="33" column="103" selection-start-line="33" selection-start-column="103" selection-end-line="33" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/b631569e/9f784cd7-4288-4bf4-ba94-fcabaf6c5886/..price_checks">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.06" vertical-offset="155" max-vertical-offset="969">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexTick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1411">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexCosts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexStore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42461538" vertical-offset="30" max-vertical-offset="1292">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.7146283" vertical-offset="1121" max-vertical-offset="2023">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
           <folding>
-            <marker date="1413760229748" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:917" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
-            <marker date="1413760229748" expanded="true" signature="1233:1280" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="1756:1803" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2299:2340" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="2769:2810" placeholder="INSERT INTO ..." />
-            <marker date="1413760229748" expanded="true" signature="3200:3224" placeholder="delete from ..." />
-            <marker date="1413760229748" expanded="true" signature="3248:3272" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="712:738" placeholder="SELECT * FRO..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="851:905" placeholder="SELECT diges..price_checks..." />
+            <marker date="1414099180281" expanded="true" signature="1234:1281" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="1797:1844" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="2765:2812" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3283:3324" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="3753:3794" placeholder="INSERT INTO ..." />
+            <marker date="1414099180281" expanded="true" signature="4184:4208" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4232:4256" placeholder="delete from ..." />
+            <marker date="1414099180281" expanded="true" signature="4746:4772" placeholder="SELECT * FRO..price_checks..." />
           </folding>
         </state>
       </provider>

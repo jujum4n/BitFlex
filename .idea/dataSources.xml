@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="price_checks" uuid="9f784cd7-4288-4bf4-ba94-fcabaf6c5886">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\juju\Documents\GitHub\BitFlex\price_checks.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\chasej\Documents\GitHub\BitFlex\price_checks.db</jdbc-url>
       <libraries />
     </data-source>
   </component>

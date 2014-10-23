@@ -4,44 +4,49 @@ import FlexHelper
 import FlexStore
 
 def main():
-
-    #Declare Variables
-    TOTALBITCOIN=0.00000000
-    TOTALUSD=10000.00
-    lastbuy=0
-    lastsell=0
-    buy_target=384.00
-    sell_target=390.00
-
+    #Shorthand for imports
     ft=FlexTick
     fh=FlexHelper
     fs=FlexStore
 
-    #Clear the tables in the mean time
-    fs.truncate()
-    first=True
+    #Declare Variables
+    TOTAL_BITCOIN=0.00000000
+    TOTAL_USD=10000.00
+    LAST_BUY=0
+    LAST_SELL=0
+    BUY_TARGET=384.00
+    SELL_TARGET=390.00
+    LAST_HASH=""
+    FIRST_RUN=True
 
-    fh.log("Staring Simulation - Target Buy: " + str(buy_target) + " Target Sell: " + str(sell_target) + " Total Bitcoin " + str(TOTALBITCOIN) + " Total USD " + str(TOTALUSD) ,"runlog.log",'w')
+    fh.log("Staring Simulation - Target Buy: " + str(BUY_TARGET) + " Target Sell: " + str(SELL_TARGET) + " Total Bitcoin " + str(TOTAL_BITCOIN) + " Total USD " + str(TOTAL_USD) ,"runlog.log",'w')
+
+    #Unencrypt the DB
+    #fs.truncate()
+    #Verify the DB's calculations to ensure the database is secure
+    DB_HEIGHT=fs.verifyIntegrity()
+
+    #Clear the tables in the mean time since they are not very good and the verify function has not been written
+
 
     while(1==1):
-
-        #Add code here later to check if the db has count greater than 1
-        #Meaning isfirst is false otherwise true
+        print "current last hash: " + str(LAST_HASH)
+        #if
 
         #Call the tick and get all the return values
-        retvals=ft.tick(lastbuy, lastsell, ft.HigherThanLowerThanTrigger, TOTALBITCOIN, TOTALUSD, buy_target, sell_target, first)
+        RETURN_VALUES=ft.tick(LAST_BUY, LAST_SELL, ft.HigherThanLowerThanTrigger, TOTAL_BITCOIN, TOTAL_USD, BUY_TARGET, SELL_TARGET, FIRST_RUN, LAST_HASH)
 
         #No longer first run
-        first=False
+        FIRST_RUN=False
         #Set all the variables for the next tick
         #Update the current buy and sell prices
-        lastbuy=float(retvals['LASTBUYPRICE'])
-        lastsell=float(retvals['LASTSELLPRICE'])
+        LAST_BUY=float(RETURN_VALUES['LASTBUYPRICE'])
+        LAST_SELL=float(RETURN_VALUES['LASTSELLPRICE'])
 
         #Update the Totals
-        TOTALBITCOIN=float(retvals['TOTALBITCOIN'])
-        TOTALUSD=retvals['TOTALUSD']
-
+        TOTAL_BITCOIN=float(RETURN_VALUES['TOTALBITCOIN'])
+        TOTAL_USD=RETURN_VALUES['TOTALUSD']
+        LAST_HASH=RETURN_VALUES['LASTHASH']
 
 if __name__ == "__main__":
     main()

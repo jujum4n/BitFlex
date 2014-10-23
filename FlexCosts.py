@@ -15,6 +15,7 @@ def getCoinbaseBuy():
     airy['coinbasefee']=cbasetotal['coinbase']['amount']
     banktotal=data['fees'][1]
     airy['bankfee']=banktotal['bank']['amount']
+    print str(airy)
     return airy
 
 def retCoinbaseTotalAmount(airy):
